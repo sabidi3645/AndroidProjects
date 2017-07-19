@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">New Profile</string>
+	
+    <string name="service_name_180F">Service: Battery Service</string>
+    <string name="service_uuid_180F">Service: 0000</string>
+    <string name="service_name_181D">Service: Weight Scale</string>
+    <string name="service_uuid_181D">Service: 0000</string>
+
+
+    <string name="characteristic_name_2A19">Characteristic: Battery Level</string>
+    <string name="characteristic_uuid_2A19">Characteristic: 0001</string>
+    <string name="characteristic_name_2A9E">Characteristic: Weight Scale Feature</string>
+    <string name="characteristic_uuid_2A9E">Characteristic: 0002</string>
+    <string name="characteristic_name_2A9D">Characteristic: Weight Measurement</string>
+    <string name="characteristic_uuid_2A9D">Characteristic: 2A9D</string>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#CEECF5</color>
+    <string name="action_settings"></string>
+	
+</resources>
