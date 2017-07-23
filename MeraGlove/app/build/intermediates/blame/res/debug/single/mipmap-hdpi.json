@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/smir/projects/AndroidProjects/MeraGlove/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_2.png",
+        "source": "/Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/res/mipmap-hdpi/ic_launcher_2.png"
+    },
+    {
+        "merged": "/Users/smir/projects/AndroidProjects/MeraGlove/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/smir/projects/AndroidProjects/MeraGlove/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
