@@ -1,0 +1,310 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:6:22-71
+uses-permission-sdk-m
+ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:7:2-84
+	android:name
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:7:25-81
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:10:9-53
+application
+ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:13:5-38:19
+MERGED from [com.android.support:design:25.3.1] /Users/smir/.android/build-cache/adeb9b7423125a7a74c48acee927b9b99b112936/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/smir/.android/build-cache/c55bb8a977bfe599cc66afaa5f687a0f034fd1cc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/smir/.android/build-cache/3f785bb0ce3aa77bbc41fcc0cc311ea0bde81f7e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/smir/.android/build-cache/c95a82d73764e1b2db097adb8d79f38dcf844ebc/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/smir/.android/build-cache/9a8e965bc93fc3dc8753c274e65eb5b5a7a97624/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/smir/.android/build-cache/5afe3a3a1095d57bd05df8de4bb2dcd2392fdfa8/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/smir/.android/build-cache/ac25a62e33f409c1e7fe4ac813a94c6067c7f497/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:gridlayout-v7:25.3.1] /Users/smir/.android/build-cache/48364769fb2cc541db69462b38a2e550989f2fc6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] /Users/smir/.android/build-cache/4e0a015dbc249abecb1f65fc3987e041101cd75e/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/smir/.android/build-cache/564e0d0ae2ba0d4b3ab197ffb889fbad2615e7ff/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.0.2] /Users/smir/.android/build-cache/d564f342c653c504c024cfd6aa53db1d4bb332bf/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/smir/.android/build-cache/5b5b220262da8f43c36e36a3ebfb3b15ba4e4a71/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.2] /Users/smir/.android/build-cache/0acc9b901b1ce0620cf22d02efd0573e43c17583/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/smir/.android/build-cache/a5c1113072988878ca7c3cc068422847943418a5/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/smir/.android/build-cache/f95384453489051efa61808a0aa26808c2cf7804/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/smir/.android/build-cache/d44a2b842d5c0e6e1ad20f97ef9e82c8d71ec851/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/smir/.android/build-cache/1cc48fb834eb107022d9516c3a8a7ed47b99d953/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/smir/.android/build-cache/60c77323b7b08b85b367463788213af12467686a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/smir/.android/build-cache/10b36b4592dbb3ce59ef7571eac5b8b4c0adfd1f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/smir/.android/build-cache/222a3e2194e4ea72c64e7e20e5c2bf6304097078/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/smir/.android/build-cache/d805c2c7c8651796390842985686cb6e60588078/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.meraglove.meraglove.SignInActivity
+ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:20:13-58
+	android:theme
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:19:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.meraglove.meraglove.PeripheralControlActivity
+ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:28:9-32:20
+	android:screenOrientation
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:31:13-49
+	android:label
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:29:13-77
+service#com.meraglove.meraglove.BleAdapterService
+ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:34:9-36:38
+	android:enabled
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:36:13-35
+	android:name
+		ADDED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml:35:13-69
+uses-sdk
+INJECTED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/smir/.android/build-cache/adeb9b7423125a7a74c48acee927b9b99b112936/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/smir/.android/build-cache/c55bb8a977bfe599cc66afaa5f687a0f034fd1cc/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/smir/.android/build-cache/3f785bb0ce3aa77bbc41fcc0cc311ea0bde81f7e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/smir/.android/build-cache/c95a82d73764e1b2db097adb8d79f38dcf844ebc/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/smir/.android/build-cache/ec026af4ebc5189b7d29c09dedbe43a053b8cd21/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/smir/.android/build-cache/9a8e965bc93fc3dc8753c274e65eb5b5a7a97624/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/smir/.android/build-cache/5afe3a3a1095d57bd05df8de4bb2dcd2392fdfa8/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/smir/.android/build-cache/ac25a62e33f409c1e7fe4ac813a94c6067c7f497/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:gridlayout-v7:25.3.1] /Users/smir/.android/build-cache/48364769fb2cc541db69462b38a2e550989f2fc6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] /Users/smir/.android/build-cache/4e0a015dbc249abecb1f65fc3987e041101cd75e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.2] /Users/smir/.android/build-cache/8863568a29ecbf613b1ad1e297d6c4d6279e6939/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] /Users/smir/.android/build-cache/564e0d0ae2ba0d4b3ab197ffb889fbad2615e7ff/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.2] /Users/smir/.android/build-cache/9ea5a144f06632b89d3860a67a1320c33c8f3ae4/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.2] /Users/smir/.android/build-cache/4487f686e0b3a398fc91969a990ea6315e72dde6/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.2] /Users/smir/.android/build-cache/d564f342c653c504c024cfd6aa53db1d4bb332bf/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/smir/.android/build-cache/5b5b220262da8f43c36e36a3ebfb3b15ba4e4a71/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.2] /Users/smir/.android/build-cache/0acc9b901b1ce0620cf22d02efd0573e43c17583/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] /Users/smir/.android/build-cache/a5c1113072988878ca7c3cc068422847943418a5/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] /Users/smir/.android/build-cache/f95384453489051efa61808a0aa26808c2cf7804/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/smir/.android/build-cache/d44a2b842d5c0e6e1ad20f97ef9e82c8d71ec851/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/smir/.android/build-cache/1cc48fb834eb107022d9516c3a8a7ed47b99d953/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/smir/.android/build-cache/60c77323b7b08b85b367463788213af12467686a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/smir/.android/build-cache/10b36b4592dbb3ce59ef7571eac5b8b4c0adfd1f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/smir/.android/build-cache/222a3e2194e4ea72c64e7e20e5c2bf6304097078/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/smir/.android/build-cache/d805c2c7c8651796390842985686cb6e60588078/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/smir/.android/build-cache/adeb9b7423125a7a74c48acee927b9b99b112936/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/smir/projects/AndroidProjects/MeraGlove/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/smir/.android/build-cache/adeb9b7423125a7a74c48acee927b9b99b112936/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/smir/.android/build-cache/c55bb8a977bfe599cc66afaa5f687a0f034fd1cc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/smir/.android/build-cache/3f785bb0ce3aa77bbc41fcc0cc311ea0bde81f7e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/smir/.android/build-cache/c95a82d73764e1b2db097adb8d79f38dcf844ebc/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/smir/.android/build-cache/ec026af4ebc5189b7d29c09dedbe43a053b8cd21/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/smir/.android/build-cache/9a8e965bc93fc3dc8753c274e65eb5b5a7a97624/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/smir/.android/build-cache/ac25a62e33f409c1e7fe4ac813a94c6067c7f497/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:gridlayout-v7:25.3.1] /Users/smir/.android/build-cache/48364769fb2cc541db69462b38a2e550989f2fc6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/smir/.android/build-cache/d44a2b842d5c0e6e1ad20f97ef9e82c8d71ec851/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/smir/.android/build-cache/1cc48fb834eb107022d9516c3a8a7ed47b99d953/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/smir/.android/build-cache/60c77323b7b08b85b367463788213af12467686a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/smir/.android/build-cache/10b36b4592dbb3ce59ef7571eac5b8b4c0adfd1f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/smir/.android/build-cache/222a3e2194e4ea72c64e7e20e5c2bf6304097078/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/smir/.android/build-cache/d805c2c7c8651796390842985686cb6e60588078/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/smir/.android/build-cache/adeb9b7423125a7a74c48acee927b9b99b112936/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/smir/.android/build-cache/adeb9b7423125a7a74c48acee927b9b99b112936/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/smir/.android/build-cache/4e0a015dbc249abecb1f65fc3987e041101cd75e/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/smir/.android/build-cache/4e0a015dbc249abecb1f65fc3987e041101cd75e/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/smir/.android/build-cache/4e0a015dbc249abecb1f65fc3987e041101cd75e/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/smir/.android/build-cache/4e0a015dbc249abecb1f65fc3987e041101cd75e/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/smir/.android/build-cache/4e0a015dbc249abecb1f65fc3987e041101cd75e/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/smir/.android/build-cache/4e0a015dbc249abecb1f65fc3987e041101cd75e/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/smir/.android/build-cache/4e0a015dbc249abecb1f65fc3987e041101cd75e/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/smir/.android/build-cache/4e0a015dbc249abecb1f65fc3987e041101cd75e/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] /Users/smir/.android/build-cache/4e0a015dbc249abecb1f65fc3987e041101cd75e/output/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/smir/.android/build-cache/564e0d0ae2ba0d4b3ab197ffb889fbad2615e7ff/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/smir/.android/build-cache/564e0d0ae2ba0d4b3ab197ffb889fbad2615e7ff/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/smir/.android/build-cache/564e0d0ae2ba0d4b3ab197ffb889fbad2615e7ff/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] /Users/smir/.android/build-cache/564e0d0ae2ba0d4b3ab197ffb889fbad2615e7ff/output/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/smir/.android/build-cache/5b5b220262da8f43c36e36a3ebfb3b15ba4e4a71/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/smir/.android/build-cache/5b5b220262da8f43c36e36a3ebfb3b15ba4e4a71/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/smir/.android/build-cache/5b5b220262da8f43c36e36a3ebfb3b15ba4e4a71/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/smir/.android/build-cache/5b5b220262da8f43c36e36a3ebfb3b15ba4e4a71/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.2] /Users/smir/.android/build-cache/5b5b220262da8f43c36e36a3ebfb3b15ba4e4a71/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.2] /Users/smir/.android/build-cache/2aa4a4715bd89185489a4c1e842e5b73d5bee54d/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.2] /Users/smir/.android/build-cache/dcd2892cd4c08d95ea48bd9d52c2a9113f82956c/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/smir/.android/build-cache/0acc9b901b1ce0620cf22d02efd0573e43c17583/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/smir/.android/build-cache/0acc9b901b1ce0620cf22d02efd0573e43c17583/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/smir/.android/build-cache/0acc9b901b1ce0620cf22d02efd0573e43c17583/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/smir/.android/build-cache/0acc9b901b1ce0620cf22d02efd0573e43c17583/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.2] /Users/smir/.android/build-cache/0acc9b901b1ce0620cf22d02efd0573e43c17583/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/smir/.android/build-cache/f95384453489051efa61808a0aa26808c2cf7804/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/smir/.android/build-cache/f95384453489051efa61808a0aa26808c2cf7804/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] /Users/smir/.android/build-cache/f95384453489051efa61808a0aa26808c2cf7804/output/AndroidManifest.xml:20:20-65

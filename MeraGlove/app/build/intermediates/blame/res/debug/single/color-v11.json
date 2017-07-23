@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/smir/projects/AndroidProjects/MeraGlove/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/smir/.android/build-cache/c55bb8a977bfe599cc66afaa5f687a0f034fd1cc/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/smir/projects/AndroidProjects/MeraGlove/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/smir/.android/build-cache/c55bb8a977bfe599cc66afaa5f687a0f034fd1cc/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
